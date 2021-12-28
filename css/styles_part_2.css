@@ -1,0 +1,46 @@
+/* Border-box */
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; border: 1px solid red;}
+
+/* Header */
+
+header {
+  height: 175px;
+}
+
+.nav-main {
+  height: 100px;
+}
+
+.nav-sub {
+  height: 75px;
+}
+
+/* Main */
+.container {
+  display: flex;
+}
+
+main {
+  height: 840px;
+  width: 900px;
+  margin-top: 80px;
+  margin-left: 160px;
+}
+
+.article-main {
+  height: 400px;
+}
+
+.article-sub {
+  margin-top: 65px;
+  height: 155px;
+}
+/* Side-bar */
+
+aside {
+  height: 800px;
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 180px;
+}
