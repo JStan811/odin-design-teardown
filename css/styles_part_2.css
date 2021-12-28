@@ -44,3 +44,17 @@ aside {
   margin-top: 40px;
   margin-left: 180px;
 }
+
+/* Project part 2: Playing with Typography */
+
+h1 {
+  font: 700 50px/1.5 'Noto Sans', sans-serif;
+}
+
+h2 {
+  font: 500 35px/1.5 'Noto Sans', sans-serif;
+}
+
+p {
+  font: 400 20px/1.5 'Lora', serif;
+}
